@@ -21,3 +21,5 @@ Which Channel is contributing maximum to the sales?
 Highest selling category?
 
 Percentage of Total Orders delivered
+## dashboard interactions
+<a href="https://github.com/assistansiri255/Data--Analysis-Dashboard/blob/main/Screenshot%202025-11-24%20104716.png">view dashboard</a>
