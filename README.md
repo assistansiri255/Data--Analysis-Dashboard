@@ -23,3 +23,8 @@ Highest selling category?
 Percentage of Total Orders delivered
 ## dashboard interactions
 <a href="https://github.com/assistansiri255/Data--Analysis-Dashboard/blob/main/Screenshot%202025-11-24%20104716.png">view dashboard</a>
+## process
+Verify data for any missing values and anomalies, and sort out the same.
+Made sure data is consistent and clean with respect to data type, data format and values used.
+Created pivot tables according to the questions asked.
+Merge all pivot tables into one dashboard and apply slicer to make dynamic.
